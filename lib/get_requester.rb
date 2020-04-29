@@ -11,6 +11,8 @@ class GetRequester
     response.body
   end 
   
+  def initialize(url)
+  end 
   
   
 end 
